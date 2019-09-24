@@ -23,7 +23,7 @@ pessoa.dataNascimento = '01/01/2017'
 console.log(pessoa.dataNascimento)
 console.log(Object.keys(pessoa))
 
-// Objetct.assing (ECMASscript 2015)
+// Objetct.assing (ECMAScript 2015)
 const dest = { a: 1 }
 const o1 = { b: 2 }
 const o2 = { c: 3, a: 4 }
